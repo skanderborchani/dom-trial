@@ -1,0 +1,10 @@
+.listes-des-produit {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    align-content: center;
+    text-decoration-color: crimson;
+}
+.T-shirt{
+    display: flex;
+    
+}
